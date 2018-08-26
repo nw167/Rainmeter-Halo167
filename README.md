@@ -4,26 +4,17 @@ Instructions here refer to the values that can be found in the config.inc file i
 Most of these values will need to be changed for the skins to work, others are just preference.
 
 
-;|---------------------------------------------|
-;|                                             |
-;|  CONTENTS                                   |
-;|                                             |
-;|---------------------------------------------|
-;|                                             |
-;| |- 1. HWINFO                                |
-;| |- 2. FOLDER VIEWER                         |
-;| |- 3. LAUNCHER ICONS                        |
-;|                                             |
-;|---------------------------------------------|
 
 
-;|---------------------------------------------|
-;|                                             |
-;|   [1] HWINFO                                |
-;|                                             |
-;|---------------------------------------------|
+CONTENTS
 
-    HWInfo is required for this to work. https://www.hwinfo.com/
+1. HWINFO
+2. FOLDER VIEWER
+3. LAUNCHER ICONS
+
+[1] HWINFO
+
+    HWInfo is required for this to work.www.hwinfo.com/
 
     You will need update the HWiNFO IDs included in this skin to match the IDs for your system.  To do this:
     1 - ensure HWiNFO is running, with sensors and shared memory active
@@ -34,20 +25,12 @@ Most of these values will need to be changed for the skins to work, others are j
     Min/Max values (eg "CPU_Freq_Min"/"CPU_Freq_Max") can be changed to better reflect your system and achieve the desired scale.
 
 
-;|---------------------------------------------|
-;|                                             |
-;|   [2] FOLDER VIEWER                         |
-;|                                             |
-;|---------------------------------------------|
+[2] FOLDER VIEWER
 
     Directory will need to be updated in the config file for the links to work
 
 
-;|---------------------------------------------|
-;|                                             |
-;|   [3] LAUNCHER ICONS                        |
-;|                                             |
-;|---------------------------------------------|
+[3] LAUNCHER ICONS
 
     To create your own icon -
     1 - Copy one of the existing icon folders (LauncherIcons/Icons/???) and rename it.
